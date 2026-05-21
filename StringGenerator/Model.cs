@@ -2,6 +2,9 @@ using System;
 using System.Text;
 namespace StringGenerator
 {
+    /// <summary>
+    /// Generates the String
+    /// </summary>
     public class Generator
     {
         private const string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
